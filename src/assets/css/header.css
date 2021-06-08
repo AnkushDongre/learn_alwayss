@@ -1,0 +1,33 @@
+ /*--------------------------------------------------------------
+  # Header
+  --------------------------------------------------------------*/
+  #header.header {
+    transition: all 0.8s;
+    padding: 25px 0;
+    background-color: rgba(80, 89, 110, 0.564);
+  }
+
+  #header.header-scrolled {
+    transition: all 0.8s;
+    padding: 15px 0;
+    background-color: rgba(26, 38, 71, 1);
+  }
+
+  /*--------------------------------------------------------------
+  # Navigation Menu
+  --------------------------------------------------------------*/
+  #header > nav > div > div > button{
+    color: #ffffff;
+    background-color: aliceblue;
+  }
+
+  #responsive-navbar-nav > div > a{
+    color: #ffffff;
+    font-size: large;
+  }
+
+  #responsive-navbar-nav > div > a:hover{
+    color: #fb3640;
+    font-size: large;
+  }
+
