@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/learn_alwayss/static/css/main.421a2af6.chunk.css",
+    "main.js": "/learn_alwayss/static/js/main.3da13b4e.chunk.js",
+    "main.js.map": "/learn_alwayss/static/js/main.3da13b4e.chunk.js.map",
+    "runtime-main.js": "/learn_alwayss/static/js/runtime-main.5bbff06f.js",
+    "runtime-main.js.map": "/learn_alwayss/static/js/runtime-main.5bbff06f.js.map",
+    "static/css/2.1cba791a.chunk.css": "/learn_alwayss/static/css/2.1cba791a.chunk.css",
+    "static/js/2.dbe49226.chunk.js": "/learn_alwayss/static/js/2.dbe49226.chunk.js",
+    "static/js/2.dbe49226.chunk.js.map": "/learn_alwayss/static/js/2.dbe49226.chunk.js.map",
+    "index.html": "/learn_alwayss/index.html",
+    "static/css/2.1cba791a.chunk.css.map": "/learn_alwayss/static/css/2.1cba791a.chunk.css.map",
+    "static/css/main.421a2af6.chunk.css.map": "/learn_alwayss/static/css/main.421a2af6.chunk.css.map",
+    "static/js/2.dbe49226.chunk.js.LICENSE.txt": "/learn_alwayss/static/js/2.dbe49226.chunk.js.LICENSE.txt",
+    "static/media/Aditi.d33b6243.jpg": "/learn_alwayss/static/media/Aditi.d33b6243.jpg",
+    "static/media/about_page_image.590fd105.jpg": "/learn_alwayss/static/media/about_page_image.590fd105.jpg",
+    "static/media/hero-section.css": "/learn_alwayss/static/media/hero.30ed20e4.jpg",
+    "static/media/slick-theme.css": "/learn_alwayss/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bbff06f.js",
+    "static/css/2.1cba791a.chunk.css",
+    "static/js/2.dbe49226.chunk.js",
+    "static/css/main.421a2af6.chunk.css",
+    "static/js/main.3da13b4e.chunk.js"
+  ]
+}
